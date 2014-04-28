@@ -15,6 +15,10 @@ The next command, JN, reads the most significant (leftmost) bit.  If it is negat
 
 Finally, a jump is at the end which begins on the same line, resulting in an infinite loop that completes the program.
 
+### Program Demonstration
+
+[Demonstration](https://www.youtube.com/watch?v=LcFfhxbRBdo&feature=youtu.be)
+
 ### Waveform
 
 ![Waveform with instructions](https://github.com/KevinCabusora/ECE281_Lab5/blob/master/Waveform_w_Instructions.PNG?raw=true "Image")
